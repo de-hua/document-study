@@ -3,7 +3,7 @@ import { nav } from './nav'
 // import { sidebar } from './sidebar'
 
 export default defineConfig({
-  base: '/document/',
+  base: '/document-study/',
   title: '在线文档', // 网站标题
   description: '在线文档', // 网站描述
   srcDir: './', // 源码目录
